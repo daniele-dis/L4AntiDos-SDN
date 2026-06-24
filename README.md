@@ -5,7 +5,7 @@ Repository ufficiale del progetto finale per il corso di **Networks and Cloud In
 Membri del Team
 *   [Valentino Alberobello](https://www.linkedin.com/in/valentino-alberobello-1009233ba/)
 *   [Angela Dalia](https://www.linkedin.com/in/angela-dalia-735688251/)
-*   [Tuo Nome](www.linkedin.com/in/daniele-di-sarno-856688225)
+*   [Daniele Di Sarno](www.linkedin.com/in/daniele-di-sarno-856688225)
 
 ---
 
