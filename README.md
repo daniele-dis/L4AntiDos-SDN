@@ -43,18 +43,18 @@ Istruzioni per l'Avvio
 
 1. Avviare il Controller Ryu** (scegliere una delle due versioni):
    
-   # Versione Standard (BAN permanente)
+   **Versione Standard (BAN permanente)**
    ryu-manager ryu_controller.py
    
-   # Versione Avanzata (con Un-BAN dopo 60s)
+   **Versione Avanzata (con Un-BAN dopo 60s)**
    ryu-manager ryu_controller_with_unban.py
 
 2. Avviare la Topologia Mininet (in un altro terminale):
 
-   # Topologia principale (2 switch, 3 host)
+   **Topologia principale (2 switch, 3 host)**
    sudo python3 topology.py
    
-   # Topologia alternativa (3 switch, 4 host)
+   **Topologia alternativa (3 switch, 4 host)**
    sudo python3 topology2.py
 
 3. Simulazione dell'Attacco con D-ITG:
