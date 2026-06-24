@@ -58,7 +58,7 @@ Istruzioni per l'Avvio
    sudo python3 topology2.py
 
 3. Simulazione dell'Attacco con D-ITG:
-Sul terminale Mininet, impostare un host in ascolto (es. h2) e generare traffico UDP anomalo dall'host attaccante (es. h3):
+   Sul terminale Mininet, impostare un host in ascolto (es. h2) e generare traffico UDP anomalo dall'host attaccante (es. h3):
 
-  mininet> h2 ITGRecv &
-  mininet> h3 ITGSend -a 10.0.0.2 -T UDP 1200 -c 5000
+   mininet> h2 ITGRecv &
+   mininet> h3 ITGSend -a 10.0.0.2 -T UDP 1200 -c 5000
